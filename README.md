@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @billdodis
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently studying Computer Science & Engineering at University of Ioannina.
 - 📫 How to reach me : Mail me, billdodis324@gmail.com.
 
 <!---
